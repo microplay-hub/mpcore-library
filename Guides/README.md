@@ -11,7 +11,7 @@ BreadBoard - Guide to add Real Time Clock(RTC) or other addon-boards to your con
 GPIO - Guide to add Fan, LED, Buttons to the GPIO PIN-Header
 ```
 ```shell
-User - Guides to help configure your console and debug
+User - Handbook and guides for your mp console
 ```
 ```shell
 Distribution - List of available Console types and features
